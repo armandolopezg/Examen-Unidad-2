@@ -1,0 +1,80 @@
+.registroPrestamo{
+    width: auto;
+    margin-right: 25%;
+    margin-left: 23%;
+    margin-top: 30px;
+    border-radius: 5px;
+    
+}
+.data{
+    width: auto;
+    padding: 10px;
+    margin-left: 5%;
+    margin-top: 5px;
+    border-radius: 5px;
+    background-color: #212529;
+    box-shadow:27px 27px 37px #000;
+    color: white;
+}
+
+h1{
+    margin: 5px;
+    padding: 2px;
+    margin-top: 2px;
+}
+.save, .reset{
+    padding: 7px 15px;
+    margin-top: 20px;
+    border-radius: 5px; 
+    border: none;
+    background: #777f83; 
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 400;
+    color: #fff;
+    display: inline-block;
+    margin: 20px 20px 0;
+}
+.save:hover{
+    text-decoration: none;
+    color: #fff;
+    background: #393d3f; 
+    transition: .5s;
+    cursor: pointer;
+} 
+
+
+.reset:hover {
+    text-decoration: none;
+    color: #fff;
+    background: #393d3f; 
+    transition: .5s;
+    cursor: pointer;
+}
+
+.info input{
+    width: 100%;
+    border-radius: 4px;
+    margin-bottom: 10px 10px 16px;
+    padding: 5px;
+    background: rgb(228, 228, 228);
+    border: none;
+    border-bottom: 1px solid #eee;
+    color: black;
+}
+table{
+    margin-top: 15px;
+    display: relative;
+    align-items: center;
+    width: 400px;
+}
+.color{
+    background-color: #eee;
+}
+.tamaño{
+    width: 1000px;
+    align-items: center;
+}
+.centrar{
+    text-align: center;
+}
